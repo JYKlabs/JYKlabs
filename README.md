@@ -13,7 +13,8 @@ M.A. in New Media Music, Sangmyung University (2023-currently in the 4th semeste
 Mixing Engineer & Music Producer \
 Mixed soundtrack for the promotional video (PV) of the webtoon [Gosu game](https://www.youtube.com/watch?v=FZ7uU76gFWw) \
 Managed voice recording sessions for [Mabinogi Mobile](https://mabinogimobile.nexon.com/Main) \
-Worked on numerous projects involving music production, mixing, and recording for various artists 
+Worked on numerous projects involving music production, mixing, and recording for various artists \
+Arturia [Minifuse 1](https://dl.arturia.net/products/minifuse-1/manual/minifuse-1_Manual_1_0_0_KR.pdf), [Minifuse 2](https://dl.arturia.net/products/minifuse-2/manual/minifuse-2_Manual_1_0_0_KR.pdf) Official Manual Translator
 
 ## Publications
 

@@ -26,6 +26,15 @@ Author of [The Basics of Mixing](https://product.kyobobook.co.kr/detail/S0002143
 Audio measurement and room acoustics improvement \
 Development of audio plugins, focusing on modeling hardwares and implementation
 
+## Help Keep This Person Alive
+
+Your donation helps cover hosting and keeps the content (blog posts & projects) coming.  
+Thank you for your support!
+
+<a href="https://paypal.me/JooyoungMusic/1.99" target="_blank">
+  <img src="https://img.shields.io/badge/Support-Now-blue?style=for-the-badge&logo=paypal" alt="Support Now via PayPal" />
+</a>
+
 ## Stay Connected
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JYKlabs) 

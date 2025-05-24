@@ -6,7 +6,7 @@ I'm Jooyoung Kim, a Mixing Engineer, and Music Producer.
 ## Education
 
 B.S. in Physics, Yonsei University (2015–2023) \
-M.A. in New Media Music, Sangmyung University (2023-currently in the 4th semester) 
+M.A. in New Media Music, Sangmyung University (2023-2025) 
 
 ## Professional Experience
 

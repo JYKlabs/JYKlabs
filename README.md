@@ -18,8 +18,10 @@ Arturia [Minifuse 1](https://dl.arturia.net/products/minifuse-1/manual/minifuse-
 
 ## Publications
 
-Author of [The Basics of Mixing](https://product.kyobobook.co.kr/detail/S000214306169), published in Korea \
-[A Study on Loudness Trends in Music from 1995 to 2024: Grammy Nominees in Focus](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003166047)
+[Group delay-driven crossover optimization for subwoofer satellite systems at listening position (2025)](https://doi.org/10.1051/aacus/2025037) \
+[A Study on Loudness Trends in Music from 1995 to 2024: Grammy Nominees in Focus (2024)](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003166047) \
+\
+Author of [The Basics of Mixing](https://product.kyobobook.co.kr/detail/S000214306169), published in Korea
 
 ## Current Research Interests
 

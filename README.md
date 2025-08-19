@@ -18,8 +18,8 @@ Arturia [Minifuse 1](https://dl.arturia.net/products/minifuse-1/manual/minifuse-
 
 ## Publications
 
-[Group delay-driven crossover optimization for subwoofer satellite systems at listening position (2025)](https://doi.org/10.1051/aacus/2025037) \
-[A Study on Loudness Trends in Music from 1995 to 2024: Grammy Nominees in Focus (2024)](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003166047) \
+Kim, J. (2025). Group delay-driven crossover optimization for subwoofer satellite systems at listening position. Acta Acustica, 9. doi: [10.1051/aacus/2025037](http://doi.org/10.1051/aacus/2025037)  \
+Kim, J., and Chang, M. (2024). A Study on Loudness Trends in Music from 1995 to 2024: Grammy Nominees in Focus. Journal of Cultural Industry Studies 24, no. 4 : 215–221. doi: [10.35174/JKCI.2024.12.24.4.215](http://doi.org/10.35174/JKCI.2024.12.24.4.215) \
 \
 Author of [The Basics of Mixing](https://product.kyobobook.co.kr/detail/S000214306169), published in Korea
 

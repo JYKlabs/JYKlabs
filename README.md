@@ -17,7 +17,10 @@ Author of [The Basics of Mixing](https://product.kyobobook.co.kr/detail/S0002143
 
 ## Working Experience
 
-Sangmyung University Graduate School – Adjunct faculty, instructing private lessons for music students (Sep 2025 – Present, Seoul, South Korea) \
+Sangmyung University Graduate School – Adjunct faculty, Department of New Media Music (Sep 2025 – Present, Seoul, South Korea) \
+Keimyung University – Adjunct faculty, Department of Applied Music and Sound (Mar 2026 – Present, Daegu, South Korea) \
+Osan University – Adjunct faculty, Department of Performing Arts & Festival Contents (Mar 2026 – Present, Gyeonggi-do, South Korea)\
+
 JY Music Studio – Self-employed Recording, Mixing Engineer (Sep 2025 – Present, Seoul, South Korea) \
 Soop Record Studio – Audio Engineer Intern, conducted voice-over recording for Mabinogi Mobile and assisted with various recording projects (Dec 2022 – Feb 2023, Seoul, South Korea) \
 Korea Arts & Culture Education Service (ARKO) – Assistant Instructor for Mixing Using IR Reverb seminar, led the afternoon session on day 2 (Oct 21–22, 2025, Ilsan, South Korea) \

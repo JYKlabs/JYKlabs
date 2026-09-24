@@ -10,6 +10,7 @@ M.A. in New Media Music, Sangmyung University (2023-2025)
 
 ## Publications
 
+Kim, J. (2026). High-Definition Multimedia Interface 2.1b Cables for Analog Multichannel Audio: Objective and Subjective Analysis. Journal of the Audio Engineering Society 74, Paper 624-635. doi: [10.17743/jaes.2026.0287](https://doi.org/10.17743/jaes.2026.0287)  \
 Kim, J. (2025). Group delay-driven crossover optimization for subwoofer satellite systems at listening position. Acta Acustica, 9. doi: [10.1051/aacus/2025037](http://doi.org/10.1051/aacus/2025037)  \
 Kim, J., and Chang, M. (2024). A Study on Loudness Trends in Music from 1995 to 2024: Grammy Nominees in Focus. Journal of Cultural Industry Studies 24, no. 4 : 215–221. doi: [10.35174/JKCI.2024.12.24.4.215](http://doi.org/10.35174/JKCI.2024.12.24.4.215) \
 \
